@@ -1,5 +1,5 @@
 = Inline Text Formatting
-:example-caption!:
+:navtitle: Project Starter Pack
 
 You can add the following inline styles to your content:
 
